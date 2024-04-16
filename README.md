@@ -56,7 +56,7 @@ In the Mobile_App folder contained the .apk file that can be directly installed 
 Finally, the application uses a database, so if it is connected to the device once, then every time it is opened, it will be connected automatically, unless we disconnected.
 
 ## Final result
-<img src="Project_Images/Completed_smart_plug/smart_plug_open.jpg" width="200"/>  <img src="Project_Images/Completed_smart_plug/smart_plug_open2.jpg" width="185"/>  <img src="Project_Images/Completed_smart_plug/smart_plug_closed.jpg" width="200"/>
+<img src="Project_Images/Completed_smart_Plug/smart_plug_open.jpg" width="200"/>  <img src="Project_Images/Completed_smart_Plug/smart_plug_open2.jpg" width="185"/>  <img src="Project_Images/Completed_smart_Plug/smart_plug_closed.jpg" width="200"/>
 
 ## File Decriptions
 
